@@ -1,3 +1,5 @@
+package 키패드누르기;
+
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
