@@ -21,6 +21,9 @@ public class 네트워크Training {
 
     }
 
+    /*
+    git push test
+     */
     void dfs(int[][] computer, boolean[] visited, int count) {
         visited[count] = true;
 
